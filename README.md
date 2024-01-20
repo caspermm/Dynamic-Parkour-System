@@ -1,4 +1,4 @@
-## Dynamic Parkour System
+## Dynamic Parkour Syste1
 
 ![](https://github.com/knela96/Dynamic-Parkour-System/blob/Git-Pages/docs/Resources/Card.png)
 
